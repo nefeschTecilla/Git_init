@@ -1,0 +1,14 @@
+
+Uma coisa que insisto em fazer por conta dos meus problemas psicológicos, perfeccionismo 
+e tals é a questão de inserir pontos, caracteres especiais, acentos, números e até mesmo
+letras maiúsculas no Nome das minhas pastas/arquivos e meu computador...
+
+Quando fui salvar o meu PRIMEIRO exercício referente ao curso de C, o professor 
+disse o seguinte, que por convenção não devo salvar minhas pastas de códigos na Área 
+de Trabalho, e que essas pastas e arquivos não podem de jeito algum ter "acentos" ou 
+"caracteres especiais"!
+
+
+Hoje posso fazer isso pra me organizar. Mas é importante fixar, devo me lembrar disto e me 
+acostumar a NÃO utilizar acentos ou caracteres especiais (sem culpa, afinal é o certo a se 
+fazer nesses casos). 

@@ -1,0 +1,5 @@
+Para que servem as constantes?
+
+R: As constantes servem para eu poder definir uma "variável" que nunca mais irá variar/mudar. O valor dessa constante é setado como algo fixo, forever.
+É estranho a gente chamar uma variável de outr coisa, mas assim como definimos as variáveis do nosso código, podemos também definir as constantes do nosso código, por que não?
+Uma constante deve ser definida com letra MAIÚSCULA! 
